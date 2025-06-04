@@ -15,7 +15,7 @@ The data model is implemented using a **star schema** to optimize performance fo
 
 ##  Entity-Relationship Diagram (ERD)
 
-![ERD](./diagrams/A_data_modeling_Entity-Relationship_Diagram_(ERD)_.png)
+![ERD](https://github.com/Lenzy-nana/shopSwift-data-model/blob/main/ERD%20Diagram.jpg?raw=true)
 
 
 
